@@ -1,2 +1,2 @@
-# Task1 - Takes Number as input and performs mathematical operations
-# Task2 - Takes two string as input from user and concatenate them as a single ouput
+# Task1 - Checks wether a user Entered Number is Even or Odd
+# Task2 - Sum of Integers from 1 to 51 using a loop
